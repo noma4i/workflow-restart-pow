@@ -2,11 +2,10 @@
 -
 Trigger workflow and it will gracefully restart Pow in a seconds.
 
-![Call Pow Restart](screenshots/call_pow.png?raw=true)
 
+**Testimony**
 
-Bonus
--
-Notification in case you want see that Pow triggered to restart.
-
-![Notification](screenshots/notify_pow.png?raw=true)
+@halhenke:
+		
+	I'd kill for a workflow that could automate connecting to iPhone
+	Bluetooth Internet - doesn't look like it would be an easy thing however...
